@@ -21,9 +21,9 @@ body {
     margin-left:auto;
     margin-right:auto;
     background-color: #CCFF33;
+    text-decoration: none;
 }
 .hist_pic{
     max-height: 200px;
     display:inline-block;
-
 }
