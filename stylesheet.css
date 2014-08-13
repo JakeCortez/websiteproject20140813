@@ -5,6 +5,9 @@ body {
 h1{
     text-align:center;
 }
+#office{
+    display: block; 
+}
 #page{
     margin-left:auto;
     margin-right:auto;
