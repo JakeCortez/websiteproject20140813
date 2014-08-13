@@ -21,3 +21,8 @@ body {
     margin-right:auto;
     background-color: #CCFF33;
 }
+.hist_pic{
+    max-height: 200px;
+    display:inline-block;
+
+}
