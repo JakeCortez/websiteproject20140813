@@ -2,3 +2,21 @@ body {
     background-color: #e6e6ff;
     font-size: 20px;
 }
+#page{
+    margin-left:auto;
+    margin-right:auto;
+    width:1000px;
+    background-image: url("http://www.zingerbugimages.com/backgrounds/gray_construction_paper_seamless.jpg");
+}
+#header{
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.directory{
+    padding:2px;
+    border:1px solid black;
+    display:inline-block;
+    margin-left:auto;
+    margin-right:auto;
+}
