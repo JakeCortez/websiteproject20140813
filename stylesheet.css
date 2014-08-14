@@ -40,32 +40,35 @@ header{
     margin-left:auto;
     margin-right: auto;
 }
-@media (max-width: 643px);
-
-    body {
+@media (max-width: 643px)
+{
+    body
+    {
     background-color: #9ECC9E;
     font-size: 20px;
     }
     h1{
         text-align:center;
     }
-    #office{
+    #office
+    {
         display: block; 
     }
-    #page{
-        margin-left:auto;
-        margin-right:auto;
+    #page
+    {
+        width:100%;
         box-shadow: 2px 2px 1px #888888;
-        width:1000px;
         background-image: url("http://www.zingerbugimages.com/backgrounds/gray_construction_paper_seamless.jpg");
         padding: 5px;
     }
-    header{
-        width:600px;
+    header
+    {
+        width:100%;
         margin-left: auto;
         margin-right: auto;
     }
-    .directory{
+    .directory
+    {
         padding:2px;
         border:1px solid black;
         display:inline-block;
@@ -74,13 +77,15 @@ header{
         background-color: #CCFF33;
         text-decoration: none;
     }
-    .hist_pic{
+    .hist_pic
+    {
         max-height: 200px;
         display:inline-block;
     }
-    .about_pic{
+    .about_pic
+    {
         max-height: 200px;
         display:block;
-        margin-left:auto;
-        margin-right: auto;
+        width: 100%;
     }
+}
