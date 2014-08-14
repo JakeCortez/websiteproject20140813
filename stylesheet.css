@@ -77,7 +77,7 @@ header{
     {
         display: block; 
     }
-    #page
+    .page
     {
         width:100%;
         box-shadow: 2px 2px 1px #888888;
