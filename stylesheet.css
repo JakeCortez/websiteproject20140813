@@ -63,6 +63,11 @@ header{
 {
     text-align: center;
 }
+
+#index_head
+{
+    display: inline;
+}
 @media (max-width: 643px)
 {
     body
