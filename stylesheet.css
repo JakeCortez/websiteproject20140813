@@ -8,6 +8,14 @@ h1{
 #office{
     display: block; 
 }
+
+#blueAndYellow
+{
+    text-align: center;
+    background-color: blue;
+    font-family: cursive;
+    color: yellow
+}
 .page{
     text-align: center;
     margin-left:auto;
