@@ -48,13 +48,10 @@ header{
 }
 .affiliates
 {
-    display:inline-block;
+    display: block;
+    clear: both;
     margin: auto;
-    text-align: center;
-    border:1px solid black;
-    display:inline-block;
-    background-color: #CCFF33;
-    text-decoration: none;
+
 }
 .hist_pic{
     max-height: 200px;
@@ -96,5 +93,9 @@ header{
     }
     table{
         font-size: 0.3em;
+    }
+    .affiliates
+    {
+        max-width: 200px;
     }
 }
