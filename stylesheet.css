@@ -48,7 +48,7 @@ header{
 }
 .affiliates
 {
-    display: block;
+    display: inline-block;
     clear: both;
     margin: auto;
 
@@ -93,9 +93,5 @@ header{
     }
     table{
         font-size: 0.3em;
-    }
-    .affiliates
-    {
-        max-width: 200px;
     }
 }
